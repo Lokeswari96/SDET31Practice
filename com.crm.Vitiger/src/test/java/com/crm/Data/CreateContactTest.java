@@ -8,5 +8,7 @@ public void Createcont(){
 	System.out.println("contact is created");
 	
 	System.out.println("User1 is created contact");
+	
+	System.out.println("User2 do some changes");
 }
 }
